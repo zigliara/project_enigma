@@ -1,1 +1,1 @@
-# Project Enigma - Python 2.7.10# Emulate the Enigma Machine
+# Project Enigma - Python 2.7.10# Emulate the Enigma Machine"""Based on info from:http://www.matematiksider.dk/enigma_eng.html"""# Emulate Plugboard# Emulate Wheel N (1st wheel)# Emulate Wheel M (2nd wheel)# Emulate Wheel L (3rd wheel)# Emulate Reflector
